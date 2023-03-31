@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quadra</string>
+    <string name="coa">Введите а</string>
+    <string name="cob">Введите b</string>
+    <string name="coc">Введите c</string>
+    <string name="resh">Решить</string>
+    <string name="x1">x1=</string>
+    <string name="x2">x2</string>
+</resources>
